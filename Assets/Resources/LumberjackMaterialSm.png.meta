@@ -1,0 +1,4646 @@
+fileFormatVersion: 2
+guid: 7f691fbbcd867b2459b0050e750a0484
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: LumberjackMaterialSm_0
+    21300002: LumberjackMaterialSm_1
+    21300004: LumberjackMaterialSm_2
+    21300006: LumberjackMaterialSm_3
+    21300008: LumberjackMaterialSm_4
+    21300010: LumberjackMaterialSm_5
+    21300012: LumberjackMaterialSm_6
+    21300014: LumberjackMaterialSm_7
+    21300016: LumberjackMaterialSm_8
+    21300018: LumberjackMaterialSm_9
+    21300020: LumberjackMaterialSm_10
+    21300022: LumberjackMaterialSm_11
+    21300024: LumberjackMaterialSm_12
+    21300026: LumberjackMaterialSm_13
+    21300028: LumberjackMaterialSm_14
+    21300030: LumberjackMaterialSm_15
+    21300032: LumberjackMaterialSm_16
+    21300034: LumberjackMaterialSm_17
+    21300036: LumberjackMaterialSm_18
+    21300038: LumberjackMaterialSm_19
+    21300040: LumberjackMaterialSm_20
+    21300042: LumberjackMaterialSm_21
+    21300044: LumberjackMaterialSm_22
+    21300046: LumberjackMaterialSm_23
+    21300048: LumberjackMaterialSm_24
+    21300050: LumberjackMaterialSm_25
+    21300052: LumberjackMaterialSm_26
+    21300054: LumberjackMaterialSm_27
+    21300056: LumberjackMaterialSm_28
+    21300058: LumberjackMaterialSm_29
+    21300060: LumberjackMaterialSm_30
+    21300062: LumberjackMaterialSm_31
+    21300064: LumberjackMaterialSm_32
+    21300066: LumberjackMaterialSm_33
+    21300068: LumberjackMaterialSm_34
+    21300070: LumberjackMaterialSm_35
+    21300072: LumberjackMaterialSm_36
+    21300074: LumberjackMaterialSm_37
+    21300076: LumberjackMaterialSm_38
+    21300078: LumberjackMaterialSm_39
+    21300080: LumberjackMaterialSm_40
+    21300082: LumberjackMaterialSm_41
+    21300084: LumberjackMaterialSm_42
+    21300086: LumberjackMaterialSm_43
+    21300088: LumberjackMaterialSm_44
+    21300090: LumberjackMaterialSm_45
+    21300092: LumberjackMaterialSm_46
+    21300094: LumberjackMaterialSm_47
+    21300096: LumberjackMaterialSm_48
+    21300098: LumberjackMaterialSm_49
+    21300100: LumberjackMaterialSm_50
+    21300102: LumberjackMaterialSm_51
+    21300104: LumberjackMaterialSm_52
+    21300106: LumberjackMaterialSm_53
+    21300108: LumberjackMaterialSm_54
+    21300110: LumberjackMaterialSm_55
+    21300112: LumberjackMaterialSm_56
+    21300114: LumberjackMaterialSm_57
+    21300116: LumberjackMaterialSm_58
+    21300118: LumberjackMaterialSm_59
+    21300120: LumberjackMaterialSm_60
+    21300122: LumberjackMaterialSm_61
+    21300124: LumberjackMaterialSm_62
+    21300126: LumberjackMaterialSm_63
+    21300128: LumberjackMaterialSm_64
+    21300130: LumberjackMaterialSm_65
+    21300132: LumberjackMaterialSm_66
+    21300134: LumberjackMaterialSm_67
+    21300136: LumberjackMaterialSm_68
+    21300138: LumberjackMaterialSm_69
+    21300140: LumberjackMaterialSm_70
+    21300142: LumberjackMaterialSm_71
+    21300144: LumberjackMaterialSm_72
+    21300146: LumberjackMaterialSm_73
+    21300148: LumberjackMaterialSm_74
+    21300150: LumberjackMaterialSm_75
+    21300152: LumberjackMaterialSm_76
+    21300154: LumberjackMaterialSm_77
+    21300156: LumberjackMaterialSm_78
+    21300158: LumberjackMaterialSm_79
+    21300160: LumberjackMaterialSm_80
+    21300162: LumberjackMaterialSm_81
+    21300164: LumberjackMaterialSm_82
+    21300166: LumberjackMaterialSm_83
+    21300168: LumberjackMaterialSm_84
+    21300170: LumberjackMaterialSm_85
+    21300172: LumberjackMaterialSm_86
+    21300174: LumberjackMaterialSm_87
+    21300176: LumberjackMaterialSm_88
+    21300178: LumberjackMaterialSm_89
+    21300180: LumberjackMaterialSm_90
+    21300182: LumberjackMaterialSm_91
+    21300184: LumberjackMaterialSm_92
+    21300186: LumberjackMaterialSm_93
+    21300188: LumberjackMaterialSm_94
+    21300190: LumberjackMaterialSm_95
+    21300192: LumberjackMaterialSm_96
+    21300194: LumberjackMaterialSm_97
+    21300196: LumberjackMaterialSm_98
+    21300198: LumberjackMaterialSm_99
+    21300200: LumberjackMaterialSm_100
+    21300202: LumberjackMaterialSm_101
+    21300204: LumberjackMaterialSm_102
+    21300206: LumberjackMaterialSm_103
+    21300208: LumberjackMaterialSm_104
+    21300210: LumberjackMaterialSm_105
+    21300212: LumberjackMaterialSm_106
+    21300214: LumberjackMaterialSm_107
+    21300216: LumberjackMaterialSm_108
+    21300218: LumberjackMaterialSm_109
+    21300220: LumberjackMaterialSm_110
+    21300222: LumberjackMaterialSm_111
+    21300224: LumberjackMaterialSm_112
+    21300226: LumberjackMaterialSm_113
+    21300228: LumberjackMaterialSm_114
+    21300230: LumberjackMaterialSm_115
+    21300232: LumberjackMaterialSm_116
+    21300234: LumberjackMaterialSm_117
+    21300236: LumberjackMaterialSm_118
+    21300238: LumberjackMaterialSm_119
+    21300240: LumberjackMaterialSm_120
+    21300242: LumberjackMaterialSm_121
+    21300244: LumberjackMaterialSm_122
+    21300246: LumberjackMaterialSm_123
+    21300248: LumberjackMaterialSm_124
+    21300250: LumberjackMaterialSm_125
+    21300252: LumberjackMaterialSm_126
+    21300254: LumberjackMaterialSm_127
+    21300256: LumberjackMaterialSm_128
+    21300258: LumberjackMaterialSm_129
+    21300260: LumberjackMaterialSm_130
+    21300262: character01_1
+    21300264: LumberjackMaterialSm_132
+    21300266: LumberjackMaterialSm_133
+    21300268: LumberjackMaterialSm_134
+    21300270: LumberjackMaterialSm_135
+    21300272: LumberjackMaterialSm_136
+    21300274: LumberjackMaterialSm_137
+    21300276: LumberjackMaterialSm_138
+    21300278: LumberjackMaterialSm_139
+    21300280: LumberjackMaterialSm_140
+    21300282: LumberjackMaterialSm_141
+    21300284: LumberjackMaterialSm_142
+    21300286: LumberjackMaterialSm_143
+    21300288: LumberjackMaterialSm_144
+    21300290: LumberjackMaterialSm_145
+    21300292: LumberjackMaterialSm_146
+    21300294: character01_2
+    21300296: LumberjackMaterialSm_148
+    21300298: LumberjackMaterialSm_149
+    21300300: LumberjackMaterialSm_150
+    21300302: LumberjackMaterialSm_151
+    21300304: LumberjackMaterialSm_152
+    21300306: LumberjackMaterialSm_153
+    21300308: LumberjackMaterialSm_154
+    21300310: LumberjackMaterialSm_155
+    21300312: LumberjackMaterialSm_156
+    21300314: LumberjackMaterialSm_157
+    21300316: LumberjackMaterialSm_158
+    21300318: LumberjackMaterialSm_159
+    21300320: LumberjackMaterialSm_160
+    21300322: LumberjackMaterialSm_161
+    21300324: LumberjackMaterialSm_162
+    21300326: LumberjackMaterialSm_163
+    21300328: LumberjackMaterialSm_164
+    21300330: LumberjackMaterialSm_165
+    21300332: character01_3
+    21300334: LumberjackMaterialSm_167
+    21300336: LumberjackMaterialSm_168
+    21300338: LumberjackMaterialSm_169
+    21300340: LumberjackMaterialSm_170
+    21300342: LumberjackMaterialSm_171
+    21300344: LumberjackMaterialSm_172
+    21300346: LumberjackMaterialSm_173
+    21300348: LumberjackMaterialSm_174
+    21300350: LumberjackMaterialSm_175
+    21300352: LumberjackMaterialSm_176
+    21300354: LumberjackMaterialSm_177
+    21300356: LumberjackMaterialSm_178
+    21300358: LumberjackMaterialSm_179
+    21300360: LumberjackMaterialSm_180
+    21300362: LumberjackMaterialSm_181
+    21300364: LumberjackMaterialSm_182
+    21300366: LumberjackMaterialSm_183
+    21300368: LumberjackMaterialSm_184
+    21300370: character01_4
+    21300372: LumberjackMaterialSm_186
+    21300374: LumberjackMaterialSm_187
+    21300376: LumberjackMaterialSm_188
+    21300378: LumberjackMaterialSm_189
+    21300380: LumberjackMaterialSm_190
+    21300382: LumberjackMaterialSm_191
+    21300384: LumberjackMaterialSm_192
+    21300386: LumberjackMaterialSm_193
+    21300388: LumberjackMaterialSm_194
+    21300390: LumberjackMaterialSm_195
+    21300392: LumberjackMaterialSm_196
+    21300394: LumberjackMaterialSm_197
+    21300396: LumberjackMaterialSm_198
+    21300398: LumberjackMaterialSm_199
+    21300400: LumberjackMaterialSm_200
+    21300402: LumberjackMaterialSm_201
+    21300404: LumberjackMaterialSm_202
+    21300406: LumberjackMaterialSm_203
+    21300408: LumberjackMaterialSm_204
+    21300410: LumberjackMaterialSm_205
+    21300412: LumberjackMaterialSm_206
+    21300414: LumberjackMaterialSm_207
+    21300416: LumberjackMaterialSm_208
+    21300418: LumberjackMaterialSm_209
+    21300420: LumberjackMaterialSm_210
+    21300422: LumberjackMaterialSm_211
+    21300424: LumberjackMaterialSm_212
+    21300426: LumberjackMaterialSm_213
+    21300428: LumberjackMaterialSm_214
+    21300430: LumberjackMaterialSm_215
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 4, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833230dcc563f094593139aad57c77e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 489
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced08454758285248b8cab2dcc311bd1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 489
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4273b07f047e4448a89fa33bcb0a3f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 492
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0a4e7dfe885864baeac328382cc3ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 476
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e44e647df33ec04285a6110c21ca350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_5
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 480
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d45f840d6cb0ac448b6ce198c88eeae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_6
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 480
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64893299a9e54147ab9a1e6d03af22f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_7
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 480
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861fea0787bc3a84a85acbd957b65e4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_8
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 468
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8c0a8ee6c449a43811d76091340466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_9
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 472
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcde4afc41250c64ca731131df9b253e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_10
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 471
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e779d3596f2da2048b016c999a70ab7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_11
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 421
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cade5cb39670e8f4c85725601a7834ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_12
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 445
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0532993f19aaae4994e49156aa23d65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_13
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 450
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0defa960f9210499f1e12e43a645ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_14
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 452
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df14a66251afaf4b92a41d1b849e05a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_15
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 436
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b3e29c7c9bfb14d986073c6d821f38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_16
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 452
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330afeb7cf5b8b84eb647f96e8e590d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_17
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 440
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32504969c4fb63341980c54b0804717c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_18
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 440
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eead0cb2056c8964189f851d2d0f587d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_19
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 440
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed519fb028897e49aca3b427b750c84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_20
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 427
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473355cabd4b0e04a86b15410b341974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_21
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 431
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153e534688ee5974db2976d9f91a0b10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_22
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 450
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd81163bd29fb274f85e14fa1cbfc0c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_23
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 455
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7225c465fb25a40806dc4e5bba34b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_24
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 439
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477a8d8d27971d548b5b62f38bea1e19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_25
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 376
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81769ce3cdb439848b929f2ddea79b52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_26
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 401
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8328189ada58ad4eb09dc5d6352ea84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_27
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 408
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9686d8e90400b894d99fb148b22b06e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_28
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 412
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd353dfe28dcc241b8d75ebb3df4202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_29
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 396
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fd97960625554438cc6a28a3aa879a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_30
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 414
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd8d7f58fdb336419e082a8ce23c49e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_31
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 400
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6869bc8e57af7aa4782837fbdae88258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_32
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 400
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055cfac7addb30641b58f411c1b5dbd1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_33
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 400
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1abf540c4480a94cbac535bc195697e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_34
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 382
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f2dece9c0e92a46aaff241ef3c4bb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_35
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 390
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc97ee1314eea44fb71e13a883b8d8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_36
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 412
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58bec425ab57064bafed2500a3afd4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_37
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 418
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed20b2f6d1d2484488e3fe4ff9fd261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_38
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 407
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038804947c2278941bd6689b1e992daf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_39
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 357
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30ae4a761ae8cd40b743fdf20dc537d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_40
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 364
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2db52cdaa5061447b8b074cae91a55e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_41
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 372
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16de0f224c2fc74e8b97e3539b8718d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_42
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 356
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75014bd1344e9de48a5701b5b5cec7a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_43
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 376
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c69278fffda9f4b9a2e05ab41dc51c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_44
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 360
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e48f80eebaf96a46b0e8872a74280c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_45
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 360
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae350f430c8ac24da028b466be06270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_46
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 360
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbe8d16293a2e047aaf224ed583f34b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_47
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 349
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b30909b0f36e554b86e6265950abf32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_48
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 374
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83eb9397b4cd94c4486661c897d77163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_49
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 381
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dba81d06f0a7a240b91962cfe905f19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_50
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 372
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3b46efd6b96874ebbc97ba4a4f0f98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 329
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4a8911a8d26884aa1f1ceeea72fbf3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_52
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 320
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98bf4f72254d12a4aac473e0b8a55d9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_53
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 332
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5366a0cbcea8cd4db979583ed3892c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_54
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 316
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd722ced1e3ff542a617512f374e4d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_55
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 338
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f3632e6001fd343bbbf03e73572f84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_56
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 320
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2560a962c18a3040b935ce7910438ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_57
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 320
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68cc861f19c9829429a64a0cbd733913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_58
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 320
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896d9fbbdbebd304491549eacde1e12e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_59
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 337
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61090c8dfddb18488e9fe321469fde5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_60
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 312
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6fdcf9daa533d44dbf6d766753f6f7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_61
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 336
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4809730a99b03e24c841c7abc2ebd520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_62
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 344
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd2b024ba8f344428f035eccd932437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_63
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 337
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c91eba62769b5c4da09f613fc1d8d49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_64
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 313
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4855068dcdc4c794db39383609446cb0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_65
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 292
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a489dd79d4d540340aba67cf1a665f6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_66
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 277
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f2a240365542846b9d58d1d0d4bb2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_67
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 300
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3faf1edc1449784592fa9847770aeb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_68
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 280
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92864d92389694d4c9633a5d40a53cc0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_69
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 280
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f8b3d2339f5ea41b924cf85a8ec8d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_70
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 292
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4cd5b00926b14b4bbe5e70a07a2209b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_71
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 298
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a05983795f279a47a5c39a43d930f44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_72
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 307
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6de2fa7b477fde4c8d768e92638d5f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_73
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 302
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bbd8cebf6b25540a1e0bad1f155874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_74
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 282
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27220cd929fcd3479632053afc0c369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_75
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 269
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fd1d7f082279845a361ff3f645e29a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_76
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 276
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612aba0759655bc41a6a85530518c5e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_77
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 252
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7196c58c26c68e4ea97ba3977f905cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_78
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 261
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22947ae4a72c46b4fac89aca20e89114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_79
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 280
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0162161ff04564448c030052c72f099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_80
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 247
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede6a4b6c55e0074cb17d4c77a0d76c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_81
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 275
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e464494eb0ac7cf40ad14ddd40476679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_82
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 260
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a5abe1f4ac4bd4591d18b405e2ff35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_83
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 270
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366daf4e42497b942abef62ccd66aa07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_84
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 267
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7727b6e26eb26c4418038d59273c8f7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_85
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 267
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bee3ea71e91f84ebbef0f14b7ae40f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_86
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 267
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a9a89ea103e7248ba1e4a495856591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_87
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 267
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3aa4e49bbf47e46adaebd87dcefe42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_88
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 235
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875d74895f72f1346892a87d63676df8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_89
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 225
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a962c6492d0e02428d737152e77ce9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_90
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 232
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22d5760eff337b4186030cd0c73a466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_91
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 210
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e35eadffa97b6343a4fe1cf26ea5abf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_92
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 238
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852cbd2d32d6ad34ab850066d3b8169c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_93
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 222
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b0960bceeecd64cad66fd0e62d45a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_94
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 240
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a287de10b0cf9f48b0fccf80bae2960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_95
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 240
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8980938f2d327e408b125b00b67aa83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_96
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 240
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51c6d9199044bb4e9f20a24a32abe02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_97
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 205
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884792cffd0674e4296cae063ea19d5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_98
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 238
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d717f7d045b47e49b1ac5faab64d777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_99
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 226
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106465186434835499c5ea7268b6989b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_100
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 233
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ba51260fe96e94c8c198a06edbd080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_101
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 229
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ee1756e95b8964ca0c5e0df33a2221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_102
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 229
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1f106703241104e8dfa96ff51bc394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_103
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 229
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7618a5afcdd0e44a921065eeb9ad45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_104
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 229
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03223fec89806ac448901848a6fd6e3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_105
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 229
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020cb79cb8dbac04094ac0806c304793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_106
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 229
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53d75f487823764a96ea9e1eabbae65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_107
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 229
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241b40b13b19e0e4ca25d24431d7dfff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_108
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 188
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1374eae94f312bc428b78e972ccaf95d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_109
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 180
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf610cf4b7aa46f41972289ef8889e1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_110
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 188
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb66175ea55466f498181aeb0df81a27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_111
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 199
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fc47eb6ff198e46b8aab3715f8801c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_112
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 183
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b19eaa01354914b994c27aa22ae480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_113
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 200
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27a3004651818f41a098290561e1205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_114
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 200
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d2a2c51732bb94eb84583c83a1b190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_115
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 200
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ba1a6bf835c724190ae8cc0d75705f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_116
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 163
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bfc22438034244799ead1602da1262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_117
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 201
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3197809dcc7cc14abd103aba2dac24c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_118
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 192
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850b1b6e9df5d3943b8827511cf0dd8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_119
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 196
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f46a5e676ef6304d93d6f29a68f4ac6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_120
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 196
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f4c96820cfcb447a25e1ffe9c3eeee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_121
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 196
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef9ee34275058940910ab8f0f3eba15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_122
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 196
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63640cd9dc5755f499c7b09c4348e612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_123
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 196
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9752e1c8dd17a05459ce19be6bb43d3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_124
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 196
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5cad0689b7d484e9a8e7d59bff3786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_125
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 196
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9926265b08835bc4d905ab3a42cf9133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_126
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 141
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3b895fe2f08a44cb59ae0be09266ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_127
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 144
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f3e022649bd424f8264c0cb90efe01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_128
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 168
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c379b6504e99b2b49b4f86bf348cecca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_129
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 160
+        width: 54
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0fa6487976d8e47bd90310b36bed11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_130
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 144
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624064590cea3184d8a5650ee669c96b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character01_1
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 160
+        width: 51
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7954ce2f1a2cd545bc92e85e102bd03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_132
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 160
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e6dd70d4e591446a443408b785f638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_133
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 160
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742574c3c2ce81e47a6f36e6dfab17d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_134
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 160
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0957c1cf74aaf1f4babbeb0daba53ab4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_135
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 158
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de93949bc1ffe746b7553a21a7a5268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_136
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 158
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab01a35071fbc040af20a0a33ba60c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_137
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 158
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54105cef26b9d74cb98a99582c3eed4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_138
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 158
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c401aff3bd1c6458057c03c3f0ef9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_139
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 158
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a191430813ff544e9c7bb3ea20db198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_140
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 158
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466b621203354fc409738e2c2b2e503a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_141
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 158
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ae416d0a0766f4b92b271c0becdbd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_142
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 135
+        width: 63
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5dca7fba84b9ab448f8d44212283207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_143
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 108
+        width: 71
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eac6d49a038c61459be34c4e137b163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_144
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 126
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f0a10ee849367439f7455ffb31602f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_145
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 120
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a797c5417577341ada86a65fdbecf9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_146
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 108
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739527c94973ef047ac2c5098cb0c1d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character01_2
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 120
+        width: 51
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112472c1853eae44a84091eec4b6ae9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_148
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 120
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfe96439eb5d924c96187b0956a042d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_149
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 120
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd1ea05dba04274e8f0b5311888c663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_150
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 121
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3471969649d4c864098e49b6690c7e91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_151
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 119
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82515cdf38321954a96f1f1f52ff7ddd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_152
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 119
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5051e89206249614d8909aaae3abe3e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_153
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 119
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ba9a17b4790d74eaecb5e18dbad0a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_154
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 119
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21dfe2e90a8c5ee48b81c92e3779aa76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_155
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 119
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe68f8ae978f254c9f2548a76ae7dde
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_156
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 119
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e967990e6123b468f4a9e0eecff451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_157
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 119
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d92106408ed6bf4fbfc319329f57fd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_158
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 119
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6cc081d360e3d4fa7d0bf08128f634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_159
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 119
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8957e77726ad738499162fd9601e0db0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad122059997bd5943b560a28634d1b71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_161
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 90
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3688d61d6c5b27d469dbb8c3054f22d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_162
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 72
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a11b7fab9a78a4a8e91cd8759242ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_163
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 84
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204769ee233a81f4a94be2e36b0b3625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_164
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 80
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293d48ab971f17240b1a3dd0eb770753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_165
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 72
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb6c7b6404e1e146a9ab34fdc131bf7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character01_3
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 80
+        width: 51
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570b0f6b1e754604aae3de90ccb3bb75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_167
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 80
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5950528ca75e41f49a394fdc0be09f83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_168
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 80
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56c1ccdcba12284d9327c032ad19f01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_169
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 79
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b767a2e4888f44782a194d8fa80471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_170
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 79
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c689dd04035fc44a879d141ced680d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_171
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 79
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837b99ef94a93b2489e79bca51af5c75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_172
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 79
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a749fce1f03a54f945905345f356a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_173
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 79
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c7372f468106548a8f8ca718dbf853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_174
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 79
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087d960746c63e948bd97b2452394211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_175
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 79
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6dedef74dcaf5458031a940a3cd073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_176
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 79
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eaa5a48012fa114ab8de48255b8b4ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_177
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 79
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea402b1e6a0154a4fae2d9f268ce1c19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_178
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 79
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dee9c149a0081741bcef11a7ba69ff3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_179
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 47
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b573e41b26e304387326cc23194322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_180
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 45
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3ccedf1ce13af4e873221eb9ba58d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_181
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 36
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ac3a4c96baa7b47a7e8c4f32766735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_182
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 42
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213911a901cc8c24bafdb57db6151723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_183
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 40
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0120ead8b4140b648a232a7356cadc16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_184
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 36
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9753a64691d48d943ba0dc4394813105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character01_4
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 40
+        width: 51
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a293b789502bd34caf998777cd51572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_186
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 40
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c69791e3fc3ce4796ec1f48a19c03b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_187
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 40
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb76687c5d628204c8f64c447d8b69e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_188
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 40
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f75402e629d14e479783e960b0fc416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_189
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 40
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c448c1bb446e8f499e12ab40da8957f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_190
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 40
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc450cc40ea48b4b83bfa84ecfa55fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_191
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 40
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e6e68001bd93646affd3c9fb4b6c43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_192
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 40
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59bb56b7cc4d1ea4f9959e01708b6b19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_193
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 40
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9754d2d099f860439a76d6e3a22436b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_194
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 40
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4cbbc3ca582024ab881ce819ca4de3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_195
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 40
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7445992892e18409faf4b6413ce599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_196
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 40
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756629f15679a77468b8fc12ea433c59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_197
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 0
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ee8077d23745e41bea0007d3cd7c9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_198
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678d4d50b621f7f42afde2cef89db7d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_199
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 0
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58398fdf8e1fcfc4094182639e236fc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_200
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 0
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afba3d5d627d3a4e9336830a79a4b6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_201
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa7d1bc595054a4c847e3bf983c89cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_202
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 0
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8626b46f360acc54b997aa6be5f0a096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_203
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 0
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8614d782438e83e4a95ec22741568045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_204
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 0
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c5a03324e2dc94981eb68732b6ea55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_205
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5705dfce095966d4e8d69036ee9d61c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_206
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 0
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750b59e4550102d4bb4e51cd25bf0ec1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_207
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 0
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35659cac9d7047d4a9dea6e4186e5d9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_208
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 0
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc9d648c3a896d459199838cfffb808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_209
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 0
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74042b74ce3bc794989441ea619ccdb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_210
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 0
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f902d12687b45419367f3f38443a7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_211
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 0
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b373f84fd6c0dc04a8cf3ba3d5480329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_212
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 0
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e92a5b5c681e1141a7c0910fb38656f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_213
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 0
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db121f132ad7ae649baa3f947381b24a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_214
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 0
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a792ddf6bbcf12498427e06435280e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LumberjackMaterialSm_215
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 0
+        width: 100
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd2908e9defaff4596add1205254f13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 26b5bde90bd360a4ba38bc3664d90d78
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

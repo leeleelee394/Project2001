@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - left
+  - right
+  - ROOT
+  - TREE
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: New Layer
+    uniqueID: 2639676025
+    locked: 0
+  - name: Play
+    uniqueID: 2055690459
+    locked: 0
+  - name: Ranking
+    uniqueID: 65991489
+    locked: 0
+  - name: GameOver
+    uniqueID: 1446478475
+    locked: 0
+  - name: Title
+    uniqueID: 3410402581
+    locked: 0
+  - name: UIButton
+    uniqueID: 1726788465
+    locked: 0
+  - name: New Layer
+    uniqueID: 833824407
+    locked: 0
