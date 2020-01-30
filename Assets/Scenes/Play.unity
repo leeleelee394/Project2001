@@ -629,7 +629,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 329239829}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 725010378}
+        m_MethodName: RightOnPointerDown
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &329239829
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -999,7 +1010,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 487664128}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 725010378}
+        m_MethodName: LeftOnPointerDown
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &487664128
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1438,6 +1460,8 @@ GameObject:
   - component: {fileID: 725010375}
   - component: {fileID: 725010377}
   - component: {fileID: 725010376}
+  - component: {fileID: 725010378}
+  - component: {fileID: 725010379}
   m_Layer: 5
   m_Name: character
   m_TagString: Untagged
@@ -1499,6 +1523,37 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 725010374}
   m_CullTransparentMesh: 0
+--- !u!114 &725010378
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 725010374}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db1a3f02417c9324c85c2efb3bfa3281, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!95 &725010379
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 725010374}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 421f2f6de8e7cce4cbcba0d3b521febd, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &772866892
 GameObject:
   m_ObjectHideFlags: 0
@@ -1623,7 +1678,7 @@ GameObject:
   m_Component:
   - component: {fileID: 923816987}
   m_Layer: 5
-  m_Name: GameObject
+  m_Name: UI_PlayerMove
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1694,7 +1749,6 @@ MonoBehaviour:
   Texture3: {fileID: 21300174, guid: 6f7d6639ba8be2348a4bc60d010dbf50, type: 3}
   Level: {fileID: 1528576781}
   Score: {fileID: 2017268489}
-  OverScore: {fileID: 305972601}
   BestScore: {fileID: 1623508893}
 --- !u!4 &938067491
 Transform:
