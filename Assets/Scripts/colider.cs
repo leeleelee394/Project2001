@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class colider : MonoBehaviour
+public class Colider : MonoBehaviour
 {
     private void OnCollisionExit2D(Collision2D collision)
     {
