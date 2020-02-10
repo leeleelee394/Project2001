@@ -14,6 +14,7 @@ public class Player : MonoBehaviour
     private bool mIsTouch;
     private bool mIsDead;        
     public Animator animator;
+    public GameObject Rip;
 
     //프로퍼티
     public bool IsLeft { get { return mIsLeft; } }
@@ -22,15 +23,24 @@ public class Player : MonoBehaviour
 
     private void Start()
     {
-        Debug.Log(gameObject.transform);
         mIsTouch = false;
         mIsLeft = false;
         mIsDead = false;
+        Rip.SetActive(false);
     }
 
     private void Update()
     {
-        if(IsDead) animator.SetTrigger("Dead");
+        if(IsDead)
+        {
+            animator.SetTrigger("Dead");
+            Rip.GetComponent<RectTransform>().position = new Vector3(gameObject.GetComponent<RectTransform>().position.x, 
+                gameObject.GetComponent<RectTransform>().position.y, 0);
+            Rip.transform.localScale = new Vector3(mIsLeft? gameObject.transform.localScale.x : gameObject.transform.localScale.x * -1,
+            Rip.transform.localScale.y, Rip.transform.localScale.z);
+            Rip.SetActive(true);
+        }
+
     }
 
     public void LeftOnPointerDown()

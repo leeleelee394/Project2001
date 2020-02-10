@@ -5,11 +5,11 @@ using UnityEngine;
 using UnityEngine.UI;
 
 public class GameManager : MonoBehaviour
-{   
+{
     public GameObject Option;               //ui옵션
     public GameObject BottomButton;         //ui하단3개버튼
     public GameObject Title;                //ui시작화면
-    public GameObject TimeBar;              //ui타임바
+
     public GameObject Play;                 //ui 실플레이화면
     public GameObject GameOver;             //ui게임오버
     public GameObject InfoLRButton;         //ui최초시작시 탭위치알려주는 화면
@@ -17,26 +17,34 @@ public class GameManager : MonoBehaviour
     public GameObject originalTree;         //나무토막프리팹
     public GameObject treePosition;         //트리위치...
 
-    public Sprite Texture1;                 //트리스킨1
-    public Sprite Texture2;                 //트리스킨2
-    public Sprite Texture3;                 //트리스킨3//배열로 바꿀까?
+    public Sprite[] Textures;               //트리스킨1
 
-    public Text Level;                      //레벨
-    public Text Score;                      //현재스코어
-    public Text BestScore;                  //최고스코어
-    private int scoreNumber;
+    public GameObject Level;                //ui레벨
+    float levelCheckTime;                   //ui레벨확인후사라질 시간
+    public Text Score;                      //ui현재스코어
+    public Text BestScore;                  //ui최고스코어
+    private int scoreNumber;                //ui스코어 변수
+
+    public Image TimeBar;                   //ui타임바
+    private float currentTime;               //ui타임바용 변수
+    private float totalTime;               //ui타임바용 변수
+
     public Player player;                  //플레이어정보
-    
+
     enum TreeTexture { type1, type2, type3 }//트리스킨enum
     enum Bough { nothing, left, right }     //위치enum
 
     private float firstTreePivot;             //나무의 첫번재 위치 값을 따로 저장해둠
-    private bool IsBough;   
+    private bool IsBough;
 
     List<GameObject> blocks;               //나무토막생성
+    List<GameObject> tempBlock;            //삭제용 임시 나무토막
     float[] blocksHeight;
-   
 
+    public BGSoundManager bgSound;
+    public EffectSoundManager effectSound;
+
+    private bool dieAccess;
     //랜덤값
     static T RandomEnumValue<T>()
     {
@@ -52,8 +60,9 @@ public class GameManager : MonoBehaviour
         GameObject left = tree.transform.GetChild(0).gameObject;
         GameObject right = tree.transform.GetChild(1).gameObject;
 
+
         switch (value)
-        {            
+        {
             case Bough.nothing:
                 left.SetActive(false);
                 right.SetActive(false);
@@ -67,17 +76,17 @@ public class GameManager : MonoBehaviour
                 right.SetActive(true);
                 break;
         }
-        
+
         switch (texture)
         {
             case TreeTexture.type1:
-                tree.GetComponent<Image>().sprite = Texture1;
+                tree.GetComponent<Image>().sprite = Textures[0];
                 break;
             case TreeTexture.type2:
-                tree.GetComponent<Image>().sprite = Texture2;
+                tree.GetComponent<Image>().sprite = Textures[1];
                 break;
             case TreeTexture.type3:
-                tree.GetComponent<Image>().sprite = Texture3;
+                tree.GetComponent<Image>().sprite = Textures[2];
                 break;
         }
 
@@ -88,11 +97,18 @@ public class GameManager : MonoBehaviour
     private void Awake()
     {
         blocks = new List<GameObject>();
+        tempBlock = new List<GameObject>();
         firstTreePivot = originalTree.GetComponent<RectTransform>().rect.height * originalTree.transform.localScale.y;
         blocksHeight = new float[10];
 
         IsBough = false;
         scoreNumber = 0;
+        levelCheckTime = 0f;
+        Level.SetActive(false);
+        totalTime = 10f;
+        currentTime = 5f;
+        TimeBar.fillAmount = currentTime / totalTime;
+        dieAccess = false;
 
         for (int i = 0; i < 10; ++i)
         {
@@ -102,18 +118,15 @@ public class GameManager : MonoBehaviour
             block.transform.parent = treePosition.transform;
             block.transform.localScale = originalTree.transform.localScale;
             block.transform.localPosition = new Vector3(0, blocksHeight[i], 0);
-            boughCreate(block); //true: 나무가지 있는 나무, false: 빈 나무       
+            boughCreate(block); //true: 나무가지 있는 나무, false: 빈 나무                   
             blocks.Add(block);  //list에 담음
+
         }
     }
 
     void Update()
     {
         if (player.IsTouch) Touch();
-        if(blocks[0].GetComponent<TreeBlock>().TreeDestroy)
-        {
-            ToughAniPlayEnd();
-        }
 
         //나무 개수가 모자르면 새로 생성
         if (blocks.Count < 10)
@@ -126,42 +139,82 @@ public class GameManager : MonoBehaviour
             boughCreate(block); //true: 나무가지 있는 나무, false: 빈 나무       
             blocks.Add(block);
         }
-    }
 
+        //레벨확인후 1초후 끄기
+        if (Level.activeSelf)
+        {
+            levelCheckTime += Time.deltaTime;
+            if (levelCheckTime > 1f)
+            {
+                Level.SetActive(false);
+                levelCheckTime = 0f;
+            }
+        }
+
+        //타임바 계산
+        currentTime -= Time.deltaTime;
+        TimeBar.fillAmount = currentTime / totalTime;
+
+        //타임오버
+        if (currentTime <= 0f && !dieAccess)
+        {
+            playerDie();           
+        }
+    }
+    
 
     public void Touch()
     {
-        player.IsTouch = false;        
+        player.IsTouch = false;
 
-        if (player.IsLeft && blocks[0].transform.Find("left").gameObject.activeSelf)
+        if ((player.IsLeft && blocks[1].transform.Find("left").gameObject.activeSelf) ||
+            (!player.IsLeft && blocks[1].transform.Find("right").gameObject.activeSelf))
         {
-            Debug.Log("게임오버:" + blocks[0].transform.GetChild(0).gameObject.activeSelf);
-        }        
-        else if (!player.IsLeft && blocks[0].transform.Find("right").gameObject.activeSelf)
-        {
-            Debug.Log("게임오버:"+blocks[0].transform.GetChild(1).gameObject.activeSelf);
+            playerDie();
+
+            //베스트스코어 갱신
+            if (scoreNumber > Int32.Parse(BestScore.text)) BestScore.text = scoreNumber.ToString();
+
         }
         else
         {
-            scoreNumber++;
-            Debug.Log(scoreNumber+"스코어점수");           
+            //스코어 점수
+            Score.text = (++scoreNumber).ToString();
 
-            //한칸씩 위치 아래로 이동
-            for (int i = 0; i < blocks.Count; ++i)
+            //레벨 점수
+            if (scoreNumber % 10 == 0)
             {
-                blocks[i].transform.localPosition = new Vector3(0, blocksHeight[i], 0);
+                Level.SetActive(true);
+                Level.GetComponent<Text>().text = "Level " + (scoreNumber / 10);
             }
 
-            blocks[0].GetComponent<Animator>().SetTrigger("Fall");
+            //타임 추가
+            currentTime += 0.3f;
+        }
+
+        effectSound.soundManager("WoodChop");
+
+        blocks[0].GetComponent<Animator>().SetTrigger("Fall");      //토막애니메이션
+        blocks[0].GetComponent<TreeBlock>().IsLeft = player.IsLeft;   //날아가는방향전달
+        blocks[0].GetComponent<TreeBlock>().IsMoveStart = true;       //날아가는함수 bool 전달
+
+        tempBlock.Add(blocks[0]);                                   //임시값에 이동            
+        blocks.Remove(blocks[0]);                                   //List에서 삭제
+
+        //한칸씩 위치 아래로 이동
+        for (int i = 0; i < blocks.Count; ++i)
+        {
+            blocks[i].transform.localPosition = new Vector3(0, blocksHeight[i], 0);
         }
     }
 
-    //나무토막이 잘리는 순간 발생하는 애니메이션
-    public void ToughAniPlayEnd()
+
+    //플레이어 죽음
+    void playerDie()
     {
-        //blocks[0].GetComponent<Animation>().Stop();    //애니메이션 플레이 중단          
-        Destroy(blocks[0]);                              //0번 나무토막 삭제
-        blocks.Remove(blocks[0]);                        //List에서 삭제
+        dieAccess = true;
+        player.IsDead = true;
+        bgSound.soundManager("Die");
     }
 }
 
